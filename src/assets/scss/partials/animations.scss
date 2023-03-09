@@ -1,0 +1,32 @@
+.my-fade {
+  animation: my-fade 0.3s linear;
+}
+
+@keyframes my-fade {
+  from {
+    opacity: 0;
+  }
+}
+
+.my-fade-from-bottom {
+  animation: my-fade-from-bottom 0.5s ease-out;
+}
+
+@keyframes my-fade-from-bottom {
+  from {
+    opacity: 0;
+    transform: translateY(100px);
+  }
+}
+
+//* FLIP CARDS */
+
+.card {
+}
+
+.card 
+
+.card
+
+
+

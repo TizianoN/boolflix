@@ -1,0 +1,11 @@
+@use "./partials/variables.scss" as *;
+@use "./partials/animations.scss";
+
+body {
+  background-color: #303030 !important;
+  min-height: 100vh;
+}
+
+main {
+  color: white;
+}
